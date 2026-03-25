@@ -36,7 +36,7 @@ function calcular(a, b, operacao) {
 
         default:
 
-            throw new Error('Operasao nao suportada');
+            throw new Error('Operacao nao suportada');
 
     }
 
