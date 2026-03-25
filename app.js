@@ -8,7 +8,7 @@ function saudacao(nome) {
 
     }
 
-    return `OLA¡, ${nome}! Bem-vindo ao nosso sistema CI/CD!`;
+    return `OLA, ${nome}! Bem-vindo ao nosso sistema CI/CD!`;
 
 }
 
@@ -51,5 +51,3 @@ if (typeof module !== 'undefined' && module.exports) {
 }
 
 console.log('Aplicacao carregada com sucesso!');
-
-----------------
